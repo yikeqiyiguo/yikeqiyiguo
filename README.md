@@ -21,26 +21,12 @@
 
 ---
 
-### 📊 Github Stats
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=yikeqiyiguo&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yikeqiyiguo&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yikeqiyiguo&theme=tokyonight&hide_border=true" width="600"/>
-
-</div>
-
----
-
 ### 📫 Contact
 - Mail: `2275993290@qq.com|xiyu8000@gmail.com`
 - GitHub: [@yikeqiyiguo](https://github.com/yikeqiyiguo)
 
 <div align="center">
 
-**`Code for fun, build practical open‑source tools.`**
+**`Per aspera ad astra✨`**
 
 </div>
