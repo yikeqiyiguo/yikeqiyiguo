@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>👋 yikeqiyiguo</h1>
-<h3>Java Full‑Stack | Go Developer</h3>
+<h3>VR U3D Developer| Java Full‑Stack | Go Developer</h3>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=yikeqiyiguo.yikeqiyiguo)](https://github.com/yikeqiyiguo)
 
