@@ -1,40 +1,46 @@
-<h1 align="center">👋 你好，我是 yikeqiyiguo</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&width=435&lines=全栈开发者;Java+%26+Go+爱好者;工具链 builder" alt="Typing SVG" />
-</p>
+<h1>👋 yikeqiyiguo</h1>
+<h3>Java Full‑Stack | Go Developer</h3>
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=yikeqiyiguo.yikeqiyiguo)](https://github.com/yikeqiyiguo)
+
+</div>
 
 ---
 
-### 📦 项目精选
+### 📦 Featured Projects
 
-#### [RoCo-Progress-Bar](https://github.com/yikeqiyiguo/RoCo-Progress-Bar)
-> 洛克王国主题的 IntelliJ 平台动态进度条插件，支持 PyCharm、IDEA 等[reference:5]。  
-> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+#### [RoCo‑Progress‑Bar](https://github.com/yikeqiyiguo/RoCo-Progress-Bar)
+> JetBrains IDE 洛克王国主题动态进度条插件
+`#Java` `#IDE‑Plugin`
 
 #### [StegGo](https://github.com/yikeqiyiguo/StegGo)
-> 轻量级 LSB 隐写桌面工具，可将 AES 加密文件无损嵌入 PNG/JPG、WAV、PDF，支持密码提取[reference:6]。  
-> ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
->未完待续
----
-
-### 📊 GitHub 统计
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yikeqiyiguo&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yikeqiyiguo&layout=compact&theme=radical" />
-</p>
+> LSB隐写可视化桌面工具｜AES加密文件隐写
+`#Golang` `#Steganography`
 
 ---
 
-### 📫 联系我
+### 📊 Github Stats
+<div align="center">
 
-- GitHub: [yikeqiyiguo](https://github.com/yikeqiyiguo)
-- 邮箱：2275993290@qq.com/xiyu8000@gmail.com
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=yikeqiyiguo&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yikeqiyiguo&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yikeqiyiguo&theme=tokyonight&hide_border=true" width="600"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yikeqiyiguo&color=blue" alt="访问计数" />
-</p>
+### 📫 Contact
+- Mail: `2275993290@qq.com|xiyu8000@gmail.com`
+- GitHub: [@yikeqiyiguo](https://github.com/yikeqiyiguo)
+
+<div align="center">
+
+**`Code for fun, build practical open‑source tools.`**
+
+</div>
