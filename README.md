@@ -23,7 +23,7 @@
 
 ### 📫 Contact
 - Mail: `2275993290@qq.com|xiyu8000@gmail.com`
-- GitHub: [@yikeqiyiguo](https://github.com/yikeqiyiguo)
+- GitHub: [@yikeqiyiguo](https://github.com/yikeqiyiguo) · [@HaloR‑Qu](https://github.com/HaloR‑Qu)
 
 <div align="center">
 
