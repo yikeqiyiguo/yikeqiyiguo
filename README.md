@@ -1,7 +1,7 @@
 
 <!-- 头像 + 简短标语（头像用你的 GitHub 头像，也可替换） -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/yikeqiyiguo" width="120" style="border-radius:50%"/>
+  <h1>👋 Hi, I'm yikeqiyiguo</h1>
 </p>
 <p align="center">
   <strong>✨ Per aspera ad astra ✨</strong><br/>
