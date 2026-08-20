@@ -20,11 +20,6 @@
 ## 📊 GitHub graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yikeqiyiguo&show_icons=true&theme=radical" alt="stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yikeqiyiguo&layout=compact&theme=radical" alt="top langs" width="48%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yikeqiyiguo&theme=react-dark" alt="activity graph" width="90%"/>
 </p>
 
@@ -33,4 +28,4 @@
 ## 📫 Contact
 
 - 📧 Email：`2275993290@qq.com` / `xiyu8000@gmail.com`
-- 🐙 GitHub：[@yikeqiyiguo](https://github.com/yikeqiyiguo) · [@HaloR‑Qu](https://github.com/HaloR‑Qu)
+- 🐙 GitHub：[@yikeqiyiguo](https://github.com/yikeqiyiguo) · [@HaloR‑Qu](https://github.com/HaloR-Qu)
