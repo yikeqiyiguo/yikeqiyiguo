@@ -20,14 +20,6 @@
 
 ---
 
-## 📊 GitHub graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yikeqiyiguo&theme=react-dark" alt="activity graph" width="90%"/>
-</p>
-
----
-
 ## 📫 Contact
 
 - 📧 Email：`2275993290@qq.com` / `xiyu8000@gmail.com`
